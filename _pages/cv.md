@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Student, Machine Learning for Smart Mobility, Technical University of Denmark
+* RWTH Aachen University | M.Sc. Electrical Power Engineering and Operations Research, Graduated with distinction, Grade 1.1 (Top 5 %), 2021
+* KTH Royal Institute of Technology Stockholm, Sweden | Semester abroad, 2018
+* RWTH Aachen University | M.Sc. Electrical Power Engineering and Business Adiminstration, Grade 1.8 (Top 5 %), 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May- August 2021: Fka GmbH Aachen | Research intern
+  * Semi-supervised video object tracking and segmentation of road users from an aerial perspective for
+the safety validation of highly automated vehicles
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August- October 2019: BET Energy Aachen | Working student, Network infrastructure and technology
+  * Simulation, prediction and evaluation of the load behavior of new consumers and innovative energy
+concepts.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May-Juli 2018: Institute for High Voltage Technologies RWTH Aachen | Student research assistant
+July 2018 Stationary network anaylsis and system evaluation
+  * Grid power flow optimization
   
 Skills
 ======
@@ -47,11 +45,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -59,6 +52,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
