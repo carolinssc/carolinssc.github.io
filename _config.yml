@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "stanford_pic.png"
   name             : "Carolin Schmidt"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ Machine learning for Smart Mobility Lab"
