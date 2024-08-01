@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We propose to formalize the control of AMoD systems through the lens of offline reinforcement learning and learn effective control strategies using solely offline data.'
 date: 25-28 June 2024
-venue: '2024 European Control Conference (ECC)'
+venue: 'Published in 2024 European Control Conference (ECC)'
 slidesurl:
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10590895?casa_token=ZU_b_n1Ds9oAAAAA:edZy5hPAQbd7RSU7DNFA1-yA5TWaqIc1yldcQoEGt-sXhKCb3eI0-Ap4Dw-zQFBC3Fk8_opx'
 citation: 'C. Schmidt, D. Gammelli, F. C. Pereira and F. Rodrigues, "Learning to Control Autonomous Fleets from Observation via Offline Reinforcement Learning," 2024 European Control Conference (ECC), Stockholm, Sweden, 2024, pp. 1399-1406.'
