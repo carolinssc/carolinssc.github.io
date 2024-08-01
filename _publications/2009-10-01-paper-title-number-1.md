@@ -2,7 +2,7 @@
 title: "Learning to Control Autonomous Fleets from Observation via Offline Reinforcement Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We propose to formalize the control of AMoD systems through the lens of offline reinforcement learning and learn effective control strategies using solely offline data.'
 date: 25-28 June 2024
 venue: '2024 European Control Conference (ECC)'
 slidesurl:
