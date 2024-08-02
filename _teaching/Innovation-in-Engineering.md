@@ -1,8 +1,8 @@
 ---
-title: "Advanced Business Analytics"
+title: "Innovation in Engineering"
 collection: teaching
 type: "MSc course"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/Innovation-in-Engineering
 venue: "Technical University of Denmark"
 
 ======
