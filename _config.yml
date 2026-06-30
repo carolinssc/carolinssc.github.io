@@ -21,7 +21,7 @@ repository               : "carolinssc/carolinssc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "stanford_pic.png"
+  avatar           : "Carolin_picture_cropped.png"
   name             : "Carolin Schmidt"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher | Machine Learning & Optimization"
