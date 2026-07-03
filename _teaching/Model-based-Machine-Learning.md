@@ -1,5 +1,5 @@
 ---
-title: "Model-Based Machine Learning (42186)"
+title: "Model-Based Machine Learning"
 collection: teaching
 type: "M.Sc. course"
 permalink: /teaching/Model-based-Machine-Learning

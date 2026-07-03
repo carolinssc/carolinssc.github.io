@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Reinforcement Learning (MGT001299)"
+title: "Introduction to Reinforcement Learning"
 collection: teaching
 type: "M.Sc. course"
 permalink: /teaching/2025-intro-rl

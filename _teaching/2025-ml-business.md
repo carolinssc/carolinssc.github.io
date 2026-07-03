@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning for Business Applications (MGT001375)"
+title: "Machine Learning for Business Applications"
 collection: teaching
 type: "B.Sc. course"
 permalink: /teaching/2025-ml-business

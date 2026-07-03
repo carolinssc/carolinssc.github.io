@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I build machine learning systems for **learning-based control of robotic and autonomous systems**, with a focus on **offline and hierarchical reinforcement learning** and on **structured policies that combine learning with classical optimization and control**. My work targets real operational settings where decisions are large-scale, combinatorial, and must remain feasible under hard constraints.
+I build machine learning systems for **learning-based control of robotic and autonomous systems**, with a focus on **offline and hierarchical reinforcement learning** and on **structured policies that combine learning with classical optimization and control**. My work targets real operational settings where decisions are large-scale or combinatorial, and must remain feasible under hard constraints.
 
 **Currently open to industry research and applied research roles in Munich.**
 
 Selected work
 ======
 
-* **[OHIO — Offline Hierarchical RL via Inverse Optimization](/publication/2025-ohio)** *(ICLR 2025)*. A framework for learning hierarchical, structured policies from logged data. Robust to varying low-level controller configurations and changing constraints; outperforms end-to-end offline RL and imitation baselines on robotic manipulation, goal-conditioned control, and network optimization.
-* **[RL4AMOD — Robo-taxi Fleet Coordination at Scale](https://github.com/StanfordASL/RL4AMOD)** *(IEEE T-CNS 2026, with Stanford ASL)*. A learning-based controller that outperforms classical optimization and end-to-end learning on scalability and robustness at city-scale in high-fidelity simulation. Open-source.
-* **Structured RL for Supply Chains** *(SAP industrial collaboration, 2025–)*. Combining learned policies with combinatorial optimization for feasible, scalable decisions in real supply-chain problems. Led technical direction and a two-person team.
-* **Offline RL for Combinatorial Action Spaces** *(first-author, in progress)*. Investigating where standard offline RL approaches break when the large-scale discrete structure of feasible actions matters.
+* **[OHIO — Offline Hierarchical RL via Inverse Optimization](/publication/2025-ohio)** *(ICLR 2025, Stanford ASL and Goolge DeepMind)*. A framework for learning hierarchical, structured policies from logged data. Robust to varying low-level controller configurations and changing constraints; outperforms end-to-end offline RL and imitation baselines on robotic manipulation, goal-conditioned control, and network optimization.
+* **[RL4AMOD — Robo-taxi Fleet Coordination at Scale](https://github.com/StanfordASL/RL4AMOD)** *(IEEE T-CNS 2026, with Stanford ASL, MIT and Goolge DeepMind)*. A learning-based controller that outperforms classical optimization and end-to-end learning on scalability and robustness at city-scale in high-fidelity simulation. Open-source.
+* **[Synthetic Monitoring Environments for Reinforcement Learning](https://pypi.org/project/sme-rl/)** *(RLC 2026)*. Built synthetic monitoring environments for evaluating learned controllers, systematically surfacing critical failure modes and distribution shifts.
+* **Structured RL for Supply Chains** *(SAP industrial collaboration, 2025)*. Combining learned policies with combinatorial optimization for feasible, scalable decisions in real supply-chain problems. Led technical direction and a two-person team.
+* **Offline RL for Combinatorial Action Spaces** *(first-author, in progress)*. Offline reinforcement learning for combinatorial action spaces, where the
+large-scale discrete structure of feasible actions breaks standard offline RL approaches
+* **Fast-and-slow control architectures ** *(senior-author, in progress)*. 
 
 About me
 ======

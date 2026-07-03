@@ -1,5 +1,5 @@
 ---
-title: "Advanced Business Analytics (42578)"
+title: "Advanced Business Analytics"
 collection: teaching
 type: "M.Sc. course"
 permalink: /teaching/Advanced-Business-Analytics

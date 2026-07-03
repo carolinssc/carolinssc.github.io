@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Business Analytics (42577)"
+title: "Introduction to Business Analytics"
 collection: teaching
 type: "M.Sc. course"
 permalink: /teaching/Introduction-to-business-analytics

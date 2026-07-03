@@ -55,7 +55,6 @@ Technical Skills
 
 Honors and Grants
 ======
-* **2025** — Independent Research Fund Denmark, *Control without Chaos: Safe Offline AI for Critical Infrastructure Networks* (collaborative funding proposal, under review)
 * **2025** — Otto Mønsted Research Fond, Denmark — Mobility Grant for Conference Participation
 * **2023** — Knud Højgaards Fond, Denmark — Mobility Grant for external research stay at Stanford
 * **2023** — Otto Mønsted Research Fond, Denmark — Mobility Grant for external research stay at Stanford
@@ -65,15 +64,15 @@ Honors and Grants
 
 Research Co-supervision
 ======
-* **Ph.D. students at TUM**: Georgina Nouli, Leonard Pleiss, Baptiste Vert (2025–)
-* **M.Sc. theses (TUM)**: Korbinian Kügler, Justus Schneider (2026)
-* **M.Sc. theses (DTU)**: Emil Kragh Toft (2025–2026), Melis Cemre Akyol (2025), Thomas Adamopoulos, Joachim Pors Andreasen, Frederik Møller Sørensen, Asger Sturis Tang (2023–2024)
+* **Ph.D. students at TUM**: Georgina Nouli, Leonard Pleiss, Baptiste Vert 
+* **M.Sc. theses (TUM)**: Korbinian Kügler, Justus Schneider
+* **M.Sc. theses (DTU)**: Emil Kragh Toft, Melis Cemre Akyol, Thomas Adamopoulos, Joachim Pors Andreasen, Frederik Møller Sørensen, Asger Sturis Tang
 * **M.Sc. thesis (EPFL)**: Xinling Li (now Ph.D. student at MIT)
 
 Funded Projects
 ======
-* **2025–** *AgiMo* — DFG Sonderforschungsbereich, Data-Driven Agile Planning for Responsible Mobility. Nominated by TUM to assume the role of Principal Investigator from Prof. Schiffer in September 2026.
-* **2025–** *SAP* — Industrial project: Structured Reinforcement Learning for Supply Chain Optimization. Responsible for coordination, solution design, and implementation.
+* **2025–** *AgiMo* — DFG Sonderforschungsbereich, Data-Driven Agile Planning for Responsible Mobility. 
+* **2025–** *SAP* — Industrial project: Structured Reinforcement Learning for Supply Chain Optimization. Project lead, solution design, and implementation.
 * **2025–** *MA'AT* — Maximizing Well-being with AI under Deep Climate Turmoil. Led RL infrastructure development.
 * **2021–2024** *SHOW* — EU Horizon 2020, Shared Automation Operating Models for Worldwide Adoption.
 
@@ -83,7 +82,7 @@ Organized Workshops
 
 Review Activities
 ======
-*Transportation Research Part C; EURO Journal on Transportation and Logistics; IISE Transactions; Transportation Research Board Annual Meeting; IEEE International Conference on Intelligent Transportation Systems (ITSC); Conference on Neural Information Processing Systems (NeurIPS); Learning and Intelligent Optimization Conference (LION).*
+*Transportation Research Part C; EURO Journal on Transportation and Logistics; IISE Transactions; Transportation Research Board Annual Meeting; IEEE International Conference on Intelligent Transportation Systems (ITSC); Journal of Intelligent Transportation Systems; Conference on Neural Information Processing Systems (NeurIPS); Learning and Intelligent Optimization Conference (LION).*
 
 Publications
 ======

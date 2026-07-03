@@ -1,5 +1,5 @@
 ---
-title: "Innovation in Engineering (42504)"
+title: "Innovation in Engineering"
 collection: teaching
 type: "M.Sc. course"
 permalink: /teaching/Innovation-in-Engineering
