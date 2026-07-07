@@ -19,8 +19,8 @@ Selected work
 * **[Synthetic Monitoring Environments for Reinforcement Learning](https://pypi.org/project/sme-rl/)** *(RLC 2026)*. Built synthetic monitoring environments for evaluating learned controllers, systematically surfacing critical failure modes and distribution shifts.
 * **Structured RL for Supply Chains** *(SAP industrial collaboration, 2025)*. Combining learned policies with combinatorial optimization for feasible, scalable decisions in real supply-chain problems. Led technical direction and a two-person team.
 * **Offline RL for Combinatorial Action Spaces** *(first-author, in progress)*. Offline reinforcement learning for combinatorial action spaces, where the
-large-scale discrete structure of feasible actions breaks standard offline RL approaches
-* **Fast-and-slow control architectures ** *(senior-author, in progress)*. 
+large-scale discrete structure of feasible actions breaks standard offline RL approaches.
+* **Fast-and-slow control architectures** *(senior-author, in progress)*. 
 
 About me
 ======
