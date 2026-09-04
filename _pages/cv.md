@@ -9,7 +9,7 @@ redirect_from:
 
 <p><a href="/files/cv.pdf">Download as PDF</a></p>
 
-<iframe src="/files/cv.pdf#view=FitH"
-        style="width: 100%; height: 1100px; border: none;"
+<iframe src="/files/cv.pdf#toolbar=0&amp;navpanes=0&amp;view=FitH"
+        style="width: 100%; aspect-ratio: 1 / 1.414; border: 1px solid #e5e5e5;"
         title="Curriculum Vitae">
 </iframe>
